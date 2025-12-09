@@ -1,5 +1,4 @@
-# newSample
+
 # Sample
-# goodSamp
-# goodSamp
 # Sample
+#learning
